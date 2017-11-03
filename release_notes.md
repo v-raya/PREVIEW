@@ -1,3 +1,20 @@
+# CALS v4.4 November 3, 2017
+### Added
+-	Street address auto-populates
+### Changed
+- No Changes
+### Fixed
+- No Fixes
+### Interim Processes
+-	Not all fields in RFA 01 A are saving (ex. Phone number, occupation, personal income)
+-	Typographic inconsistencies
+-	Applicants switch after saving if there are more than one
+-	The word “year” in the income interval is covered by the dropdown options
+-	Street address is predictive and auto populates, but zip, state and city do not
+-	Only one language (English) can be selected
+-	Entering the date will wipe out the application
+-	First save works, but subsequent saves erases the application
+
 # v2.4.1 May 10, 2017 
 ## Intake 
 ### Added 
